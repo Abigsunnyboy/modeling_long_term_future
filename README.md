@@ -13,8 +13,11 @@ Follow similar installations as in https://github.com/mila-iqia/babyai.
 Requirements:
 ## Installation
 
+
+
 Requirements:
 - Python 3.5+
+
 - OpenAI Gym
 - NumPy
 - PyQT5
